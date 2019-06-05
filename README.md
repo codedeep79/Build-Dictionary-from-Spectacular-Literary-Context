@@ -1,4 +1,4 @@
-# Build a Dictionary from Spectacular Literary
+# Build a English Dictionary from Spectacular Literary
 
 ## Prerequisites
-+ Python + PyPDF2 
++ Python3 + PyPDF3 + pikepdf 
